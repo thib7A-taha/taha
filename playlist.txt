@@ -6,3 +6,5 @@ bananas
 cherries
 carrots
 ceral
+readlist
+cucumbers
